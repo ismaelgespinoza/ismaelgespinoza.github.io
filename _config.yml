@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Ismael G. Espinoza"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ismael G. Espinoza"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://ismaelgespinoza.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ismael G. Espinoza"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Geologist, Geographer, Paleoecologist"
+  location         : "Madison, WI, USA"
+  employer         : "University of Wisconsin-Madison "
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "garciaespino@wisc.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
